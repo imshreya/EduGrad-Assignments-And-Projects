@@ -1,0 +1,7 @@
+csv file is in Naukri/Naukri/tmp/naukri_dataanalytics.csv
+simply run `scrapy crawl naukri_details``
+it will genearte a csv file `naukri_dataanalytics.csv`.
+open `edulab_Sql_commands.sql` and copy all the commands and run them.
+then change your config.py file and change mysql username and password accordingly.
+then run python `mysql_script.py`
+check your database
